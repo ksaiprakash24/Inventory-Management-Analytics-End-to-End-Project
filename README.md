@@ -256,10 +256,13 @@ The project includes 30+ DAX measures organized into folders.
 ├── Python
 │   └── Inventory Project.ipynb
 
-├── SQL
-│   ├── Day01.sql
-│   ├── ...
-│   └── Day11.sql
+SQL
+├── Database Setup.sql
+├── Data Validation & Exploration.sql
+├── SQL Analysis Queries.sql
+├── SQL Views.sql
+├── Reporting Tables.sql
+└── Business Reporting Queries.sql
 
 ├── Power BI
 │   └── Inventory Management Dashboard.pbix
