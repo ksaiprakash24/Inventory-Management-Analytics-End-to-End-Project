@@ -148,7 +148,13 @@ Dashboard Development
 
 # 📈 Dashboard Pages
 
-## Dashboard Page 1
+## Overview Dashboard
+
+![Overview Dashboard](Screenshots/Dashboard_Page1.png)
+
+## Inventory & Stock Analysis Dashboard
+
+![Inventory Dashboard](Screenshots/Dashboard_Page2.png)
 
 Business Performance Dashboard
 
@@ -238,13 +244,15 @@ The project includes 30+ DAX measures organized into folders.
 
 ## Dashboard Page 1
 
-*([Dashboard Preview]())*
+![Overview Dashboard](Screenshots/Dashboard_Page1.png)
 
 ---
 
 ## Dashboard Page 2
 
-*([Dashboard Preview]())*
+## Inventory & Stock Analysis Dashboard
+
+![Inventory Dashboard](Screenshots/Dashboard_Page2.png)
 
 ---
 
