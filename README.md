@@ -146,17 +146,6 @@ Dashboard Development
 
 ---
 
-# 📈 Dashboard Pages
-
-## Overview Dashboard
-
-*([Dashboard Preview](https://github.com/ksaiprakash24/Inventory-Management-Analytics-End-to-End-Project/blob/main/Dashboard_Page%201.png))*
-
-## Inventory & Stock Analysis Dashboard
-
-*([Dashboard Preview](https://github.com/ksaiprakash24/Inventory-Management-Analytics-End-to-End-Project/blob/main/Dashboard_Page%202.png
-))*
-
 Business Performance Dashboard
 
 Features:
@@ -261,34 +250,24 @@ The project includes 30+ DAX measures organized into folders.
 # 📁 Project Structure
 
 ```
-Inventory-Management-Analytics
-│
-├── Data
+├── Dataset
 │   └── Inventory Management Data Model.xlsx
-│
-├── Jupyter Notebook
+
+├── Python
 │   └── Inventory Project.ipynb
-│
+
 ├── SQL
-│   ├── Day1.sql
-│   ├── Day2.sql
-│   ├── Day3.sql
-│   ├── Day4.sql
-│   ├── Day5.sql
-│   ├── Day6.sql
-│   ├── Day7.sql
-│   ├── Day8.sql
-│   ├── Day9.sql
-│   ├── Day10.sql
+│   ├── Day01.sql
+│   ├── ...
 │   └── Day11.sql
-│
+
 ├── Power BI
 │   └── Inventory Management Dashboard.pbix
-│
-├── Dashboard Screenshots
-│   ├── Dashboard Page 1.png
-│   └── Dashboard Page 2.png
-│
+
+├── Screenshots
+│   ├── Dashboard_Page1.png
+│   └── Dashboard_Page2.png
+
 └── README.md
 ```
 
@@ -303,6 +282,15 @@ Inventory-Management-Analytics
 - Created SQL Views and Reporting Tables.
 - Connected SQL Server to Power BI.
 - Developed an interactive Power BI dashboard using DAX measures and professional visualizations.
+
+---
+
+# ✅ Project Outcome
+
+- Built a complete end-to-end analytics solution from Excel to Power BI.
+- Created SQL reporting tables and reusable views for business reporting.
+- Developed an interactive two-page Power BI dashboard using DAX.
+- Demonstrated ETL, SQL, data modeling, and dashboard development skills in a single project.
 
 ---
 
