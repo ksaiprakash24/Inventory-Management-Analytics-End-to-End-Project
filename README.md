@@ -150,11 +150,12 @@ Dashboard Development
 
 ## Overview Dashboard
 
-![Overview Dashboard](Screenshots/Dashboard_Page1.png)
+*([Dashboard Preview](https://github.com/ksaiprakash24/Inventory-Management-Analytics-End-to-End-Project/blob/main/Dashboard_Page%201.png))*
 
 ## Inventory & Stock Analysis Dashboard
 
-![Inventory Dashboard](Screenshots/Dashboard_Page2.png)
+*([Dashboard Preview](https://github.com/ksaiprakash24/Inventory-Management-Analytics-End-to-End-Project/blob/main/Dashboard_Page%202.png
+))*
 
 Business Performance Dashboard
 
@@ -244,7 +245,7 @@ The project includes 30+ DAX measures organized into folders.
 
 ## Dashboard Page 1
 
-![Overview Dashboard](Screenshots/Dashboard_Page1.png)
+*([Dashboard Preview](https://github.com/ksaiprakash24/Inventory-Management-Analytics-End-to-End-Project/blob/main/Dashboard_Page%201.png))*
 
 ---
 
@@ -252,7 +253,8 @@ The project includes 30+ DAX measures organized into folders.
 
 ## Inventory & Stock Analysis Dashboard
 
-![Inventory Dashboard](Screenshots/Dashboard_Page2.png)
+*([Dashboard Preview](https://github.com/ksaiprakash24/Inventory-Management-Analytics-End-to-End-Project/blob/main/Dashboard_Page%202.png
+))*
 
 ---
 
